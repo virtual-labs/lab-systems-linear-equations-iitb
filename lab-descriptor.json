@@ -11,8 +11,7 @@
   "baseUrl": "sle-iitb.vlabs.ac.in",
   "introduction": "<ul><li>To provide support to the classroom teaching to understand the Numerical Methods in a better way.</li><li>To provide application based approaches in chemical engineering which will help to solve problems at better accuracy rather than trial and error approach.</li><li>To provide a virtual environment for the students to learn and practice on its own.</li><li>To provide students to learn on their own pace concept.</li><li>Students will be able to analyze and select suitable methods to find the solution in chemical engineering.</li><li>Students will be able to write programs to solve the application based problems in chemical engineering.</li><li>Pre-test and post-test will provide the students to gauge their performance.</li><li>Theory will provide deep inside of the numerical methods in chemical engineering.</li></ul>",
   "experiments" : [
-  [
-    {
+      {
         "name": "Sensitivity Analysis",
         "short-name": "sensitivity-analysis",
         "repo": "https://github.com/virtual-labs/exp-sensitivity-analysis-iitb",
@@ -96,7 +95,6 @@
         "tag": "v1.0.0",
         "deploy": true
     }
-]
 
   ]
   "targetAudience": {
