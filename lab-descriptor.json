@@ -4,12 +4,12 @@
     "link": "https://www.vlab.co.in/broad-area-chemical-engineering",
     "code": "CHEMENG"
   },
-  "lab": "Systems for Linear Equations Numerical Methods in Chemical Engineering",
-  "lab_display_name": "Systems for Linear Equations Numerical Methods in Chemical Engineering",
+  "lab": "Numerical Methods - Systems for Linear Equations",
+  "lab_display_name": "Numerical Methods - Systems for Linear Equations",
   "phase": "3-ext",
   "collegeName": "IITB",
-  "baseUrl": "sle-iitb.vlabs.ac.in",
-  "introduction": "<ul><li>To provide support to the classroom teaching to understand the Numerical Methods in a better way.</li><li>To provide application based approaches in chemical engineering which will help to solve problems at better accuracy rather than trial and error approach.</li><li>To provide a virtual environment for the students to learn and practice on its own.</li><li>To provide students to learn on their own pace concept.</li><li>Students will be able to analyze and select suitable methods to find the solution in chemical engineering.</li><li>Students will be able to write programs to solve the application based problems in chemical engineering.</li><li>Pre-test and post-test will provide the students to gauge their performance.</li><li>Theory will provide deep inside of the numerical methods in chemical engineering.</li></ul>",
+  "baseUrl": "nm-sle-iitb.vlabs.ac.in",
+  "introduction": " To provide support to the classroom teaching to understand the Numerical Methods in a better way.Numerical Methods is the branch of mathematics to find numerical solutions to complex Mathematical problems. Most Mathematical problems from science and engineering are very complex and sometimes challenging to solve directly. Due to the great advances in computational technology, numerical methods have become very popular and is a modern tool for scientists and engineers. As a result, many software programs are being developed such as Matlab, Mathematica, Maple etc. the most difficult problems in an effective and simple way. These software's contain functions that use standard numeric methods, in which the user can bypass the required parameters and obtain the results in a single command without knowing the numerical details. Its procedural oriented approach makes easy to write computer algorithm.",
   "experiments" : [
       {
         "name": "Sensitivity Analysis",
